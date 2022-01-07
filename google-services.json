@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361643643717",
+    "project_id": "plant-pods",
+    "storage_bucket": "plant-pods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361643643717:android:871a2d67d8b6c905cf642c",
+        "android_client_info": {
+          "package_name": "com.example.plantpods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361643643717-n5eej0nbs29vjhjdct3ablj870c6abmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4kmBn4RjTEUWq0W0aj7cKFV9A9fYJ6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361643643717-n5eej0nbs29vjhjdct3ablj870c6abmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
